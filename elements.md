@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Genetics
+layout: page
 nav-menu: true
 ---
 
