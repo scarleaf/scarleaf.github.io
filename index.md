@@ -8,4 +8,26 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+
+
+<ul>
+<li>이름 : 정웅</li>
+<li>나이 : 토끼띠</li>
+<li>취미 : 재미있는 모든 것</li>
+<li>프로그래밍
+<dl>
+<dt>언어 : Python</dt>
+<dd>프레임워크 : PyTorch</dd>
+</dl>
+</li>
+<li>컴퓨터
+<dl>
+<dt>DeskTop</dt>
+<dd>Windows 10 / i5 / 16GB / GeforceGTX 950 2GB</dd>
+</dl>
+<dl>
+<dt>NoteBook</dt>
+<dd>MacBook Pro (15-inch, 2016) / i7 / 16GB / Radeon Pro 455 2GB</dd>
+</dl>
+</li>
+</ul>
