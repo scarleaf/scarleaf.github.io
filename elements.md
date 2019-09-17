@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding
+title: Genetics
 nav-menu: true
 ---
 
