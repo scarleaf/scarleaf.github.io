@@ -11,7 +11,7 @@ show_tile: false
 
 
 <ul>
-<li>이름 : 정웅</li>
+<li>닉네임 : 잼도리</li>
 <li>나이 : 토끼띠</li>
 <li>취미 : 재미있는 모든 것</li>
 <li>프로그래밍
