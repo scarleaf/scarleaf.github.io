@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: '안녕하세요!</br>잡다한 지식을 섭취하는 박학다식(食) 블로그입니다^^'
+landing-title: '안녕하세요!</br>다양하고 잡다한 지식을 섭취하는</br>박학다식(博學多食)하는 블로그입니다!'
 description: null
 image: null
 author: null
