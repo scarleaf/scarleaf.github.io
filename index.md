@@ -16,8 +16,7 @@ show_tile: false
   <li>취미 : 재미있는 모든 것</li>
   <li>약력
     <dl>
-      <dt>두에이아이 DoAI 선임연구원 2019.02 ~</dt>
-      <dd>선임연구원 - 데이터 사이언티스트 / AI 엔지니어</dd>
+      <dt>두에이아이 (DoAI)</dt><dd>선임연구원 - 데이터 사이언티스트 / AI 엔지니어</dd>
       <dt>마크로젠 (Macrogen)</dt>
       <dd>대리 - Human WGS 분석 및 파이프라인 관리/개발</dd>
       <dt>삼성유전체연구소 (SGI)</dt>
