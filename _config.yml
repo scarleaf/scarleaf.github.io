@@ -2,7 +2,7 @@
 title: 생물정보학과 인공지능 그리고 잡다한 지식
 subtitle: by scarleaf
 email: zzamdoly@gmail.com
-description: 오픈소스 프로젝트를 지향합니다.</br>재미있고 흥미로운 이야기가 있는 잡다한 지식창고 입니다.</br>사실 무척 게으르고 놀고먹기 좋아하는 pseudo-개발자입니다.
+description: 오픈소스 프로젝트를 지향합니다.</br>(저만) 재미있고 흥미로운 이야기를 쌓아둔 잡다한 지식창고를 만들고 있습니다.</br>사실 무척 게으르고 놀고먹기 좋아하는 pseudo-개발자입니다.
 baseurl: "/scarleaf.github.io/" # the subpath of your site, e.g. /blog
 url: https://scarleaf.github.io/ # the base hostname & protocol for your site
 author: Woong Jeong
