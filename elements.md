@@ -1,6 +1,8 @@
 ---
 title: Genetics
 layout: page
+description: 생물학 관련
+image: assets/images/genetics.jpg
 nav-menu: true
 ---
 

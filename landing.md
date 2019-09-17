@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 잡다한 정보들
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

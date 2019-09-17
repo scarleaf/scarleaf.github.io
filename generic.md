@@ -1,7 +1,7 @@
 ---
 title: DevOps
 layout: post
-description: Lorem ipsum dolor est
+description: 개발 관련
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
