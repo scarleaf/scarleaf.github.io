@@ -3,12 +3,10 @@ title: Home
 layout: home
 description: null
 image: null
-landing-title: '안녕하세요!</br>다양하고 잡다한 지식을 섭취하는</br>박학다식(博學多食) 블로그입니다'
+landing-title: '안녕하세요!</br>다양하고 잡다한 지식을 섭취하는</br>박학다식(博學多食) 블로그입니다. 냠냠 へ(゜∇、°)へ'
 author: null
 show_tile: false
 ---
-
-
 
 <ul>
   <li>닉네임 : 잼도리</li>
@@ -33,7 +31,7 @@ show_tile: false
       <dt>언어 : Python</dt>
       <dd>프레임워크 : PyTorch</dd>
       <dt>웹프로그래밍 </dt>
-      <dd>백엔드(APM : Apache/PHP/MySQL) / 프론트엔드(HTML/CSS/JavaScript) / NoSQL / JavaScript Frameworks(Express/Angular/)</dd>
+      <dd>백엔드(APM : Apache/PHP/MySQL) / 프론트엔드(HTML/CSS/JavaScript) / NoSQL / JavaScript Frameworks(Express/Angular)</dd>
     </dl>
   </li>
   <li>보물들
